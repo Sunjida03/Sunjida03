@@ -39,7 +39,7 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-id
+- 💼 LinkedIn:https://www.linkedin.com/in/sunjida-zaman-shifa
 
 ## 😄 Pronouns
 She/Her
