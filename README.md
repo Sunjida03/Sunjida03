@@ -38,8 +38,8 @@
 - 🎓 Student Utility Website
 
 ## 📫 How to Reach Me
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn:https://www.linkedin.com/in/sunjida-zaman-shifa
+- 📧 Email: shifasunjidazaman@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/sunjida-zaman-shifa-367b87413?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ## 😄 Pronouns
 She/Her
