@@ -1,25 +1,48 @@
-# Hi, I'm Sunjida Zaman Shifa 👋
+# 👋 Hi, I'm Sunjida Zaman Shifa
 
-🎓 CSE Student at Varendra University, Rajshahi
+🎓 Computer Science & Engineering (CSE) Student at Varendra University, Rajshahi.
 
-💻 I am passionate about:
-- Web Development
+💻 Aspiring Software Engineer | Web Development Enthusiast | Passionate about building user-friendly and practical web applications.
+
+## 🚀 Skills
+- C Programming
+- C++
 - HTML
 - CSS
 - JavaScript
 - Git & GitHub
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 - JavaScript
-- Frontend Development
-- Software Development
+- Frontend Web Development
+- Git & GitHub
+- Problem Solving
+- Data Structures & Algorithms
 
-📂 Featured Projects
-- My Portfolio
-- Online Book Store
-- Student Utility Website
+## 👯 Looking to Collaborate On
+- Open Source Projects
+- Frontend Web Development
+- Academic & Team Projects
 
-🎯 Career Goal
-To become a skilled Software Engineer and continuously improve my programming and problem-solving skills.
+## 👀 Interests
+- 💻 Programming
+- 🌐 Web Development
+- 🎨 UI/UX Design
+- 📚 Learning New Technologies
+- 🧩 Problem Solving
+- 🤝 Team Collaboration
 
-📫 Connect with me on LinkedIn.
+## 📂 Featured Projects
+- 🌐 My Portfolio
+- 📚 Online Book Store
+- 🎓 Student Utility Website
+
+## 📫 How to Reach Me
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-id
+
+## 😄 Pronouns
+She/Her
+
+## ⚡ Fun Fact
+I enjoy turning ideas into real projects through code. Every project I build helps me learn something new and brings me one step closer to becoming a skilled Software Engineer.
